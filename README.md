@@ -54,6 +54,7 @@ http://127.0.0.1:5000/
 ```
 
 **4. Faça login com o usuário padrão:**
+---
 |---------|------------|
 | Usuário | admin      |
 | Senha   | 1234       |
