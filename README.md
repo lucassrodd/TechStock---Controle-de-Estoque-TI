@@ -3,7 +3,7 @@
 ## 🔵 Descrição
 Este é um sistema web simples para gerenciamento de estoque de equipamentos, desenvolvido em Python com Flask. Permite cadastrar, editar, remover e listar produtos, registrar vendas, controlar garantias e autenticar usuários.
 
-**Autores:** Lucas Rodrigues Fernandes e Maria Alice Nascimento Monteiro.
+**Autor:** Lucas Rodrigues Fernandes 
 
 ---
 
@@ -49,14 +49,15 @@ python app.py
 ```
 
 **3. No navegador, acesse:**
+```bash
 http://127.0.0.1:5000/
+```
 
 **4. Faça login com o usuário padrão:**
-| Campo   | Valor |
-|---------|-------|
-| Usuário | admin |
-| Senha   | 1234  |
-
+| Campo   | Informação |
+|---------|------------|
+| Usuário | admin      |
+| Senha   | 1234       |
 ---
 
 ## 🔵 Observações
